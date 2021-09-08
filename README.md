@@ -3,7 +3,7 @@ Hướng dẫn cài đặt
 
 •	Cài đặt và giải nén file hautmpc01058_Mini_Project.rar.
 
-•	Cài đặt và import file Minir2s.sql để tạo database minir2s.
+•	Cài đặt và import file MiniR2S.sql để tạo database minir2s.
 
 Hướng dẫn sử dụng
 
